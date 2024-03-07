@@ -7,7 +7,9 @@ A nationwide survey of hospital costs conducted by the US Agency for Healthcare 
 
 ### Domain: Healthcare Dataset Description:
 Here is a detailed description of the given dataset:
-Attribute Description Age Age of the patient discharged Female A binary variable that indicates if the patient is female Los Length of stay in days Race Race of the patient (specified numerically)
+
+Attribute Description Age Age of the patient discharged Female A binary variable that indicates if the patient is female Los Length of stay in days Race Race of the patient (specified numerically).
+
 Totchg Hospital discharge costs Aprdrg All Patient Refined Diagnosis Related Groups Analysis to be done:
 1. To record the patient statistics, the agency wants to find the age category of people who frequently visit the hospital and has the maximum expenditure.
 2. In order of severity of the diagnosis and treatments and to find out the expensive treatments, the agency wants to find the diagnosis-related group that has maximum hospitalization and expenditure.
